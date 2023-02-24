@@ -1,2 +1,2 @@
-# 3d-tsne-mnist
-3D Viz of MNIST dataset using t-sne method
+# tsne-mnist
+Vizualize MNIST dataset in lower dimenstions using t-sne method
